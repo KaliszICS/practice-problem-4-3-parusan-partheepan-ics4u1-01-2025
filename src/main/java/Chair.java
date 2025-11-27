@@ -3,7 +3,7 @@
  * This class provides multiple constructors for creating chairs
  * with different initialization patterns and default values.
  * 
- * @author Your Name
+ * @author Parusan
  * @version 1.0
  */
 public class Chair {
